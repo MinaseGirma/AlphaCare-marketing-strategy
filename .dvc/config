@@ -1,4 +1,8 @@
 [core]
-    remote = myremote
+    remote = storage
 ['remote "myremote"']
     url = C:\Users\gtaye\Documents\10Acadamy\Tenx\dvc
+['remote "localstorage"']
+    url = ../../dvc_storage
+['remote "storage"']
+    url = ../../dvc_storage
