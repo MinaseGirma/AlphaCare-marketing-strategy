@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\gtaye\Documents\10Acadamy\Tenx\dvc
